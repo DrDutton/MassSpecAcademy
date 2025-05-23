@@ -1,7 +1,7 @@
 
 # About Me
 
-Empty
+It is Friday and it is sunny outside. Dr. Dutton would like to go outside.
 
 ![](figs/profile/name.jpg)
 
